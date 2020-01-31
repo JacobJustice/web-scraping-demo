@@ -51,3 +51,9 @@ for url in urls:
     print(stackoverflow_job_info(new_url))
     print()
 
+
+# potential features to add:
+#  take a single url as argument
+#  move to the next page to scrape all jobs
+#  store more fields (job description, etc.)
+
